@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/field-notebook-sample/static/css/main.aaa96019.chunk.css",
+    "main.js": "/field-notebook-sample/static/js/main.d2795a51.chunk.js",
+    "main.js.map": "/field-notebook-sample/static/js/main.d2795a51.chunk.js.map",
+    "runtime-main.js": "/field-notebook-sample/static/js/runtime-main.001210bd.js",
+    "runtime-main.js.map": "/field-notebook-sample/static/js/runtime-main.001210bd.js.map",
+    "static/js/2.0f0244e5.chunk.js": "/field-notebook-sample/static/js/2.0f0244e5.chunk.js",
+    "static/js/2.0f0244e5.chunk.js.map": "/field-notebook-sample/static/js/2.0f0244e5.chunk.js.map",
+    "index.html": "/field-notebook-sample/index.html",
+    "precache-manifest.e0b1ee66d7bead4c83bfd94524dbf09d.js": "/field-notebook-sample/precache-manifest.e0b1ee66d7bead4c83bfd94524dbf09d.js",
+    "service-worker.js": "/field-notebook-sample/service-worker.js",
+    "static/css/main.aaa96019.chunk.css.map": "/field-notebook-sample/static/css/main.aaa96019.chunk.css.map",
+    "static/js/2.0f0244e5.chunk.js.LICENSE.txt": "/field-notebook-sample/static/js/2.0f0244e5.chunk.js.LICENSE.txt",
+    "static/media/bubbleWindow.png": "/field-notebook-sample/static/media/bubbleWindow.e9b55ad4.png",
+    "static/media/fieldNotesLeft.png": "/field-notebook-sample/static/media/fieldNotesLeft.3dbb2029.png",
+    "static/media/fieldNotesRight.png": "/field-notebook-sample/static/media/fieldNotesRight.004808ba.png",
+    "static/media/index.css": "/field-notebook-sample/static/media/whaleITried.b048d5f5.ttf",
+    "static/media/underSea.png": "/field-notebook-sample/static/media/underSea.0945bc04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.001210bd.js",
+    "static/js/2.0f0244e5.chunk.js",
+    "static/css/main.aaa96019.chunk.css",
+    "static/js/main.d2795a51.chunk.js"
+  ]
+}
