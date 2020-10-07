@@ -1,24 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import FieldNotebook from './FieldNotebook';
+import underSea from './images/underSea.png';
 
 function App() {
+  const mainStyle = {
+    backgroundImage:`url(${underSea})`,
+    backgroundSize: 'cover',
+    backgroundPosition: 'center bottom',
+    height: '100vh'
+  }
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App"
+         style={mainStyle}>
+      <FieldNotebook />
     </div>
   );
 }
